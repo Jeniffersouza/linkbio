@@ -60,7 +60,7 @@ p{
   box-sizing: border-box;
   margin: 10px auto;
   color: var(--darkest-color);
-  padding: 15px;
+  padding: 1px;
   text-align: center;
   transition: all 0.8s;
   border-radius: 30px;
